@@ -2,5 +2,5 @@
 
 **Servus/Grüezi/Moin!** 🤓
 
-* Repositories: https://github.com/froonix
-* Gists: https://gist.github.com/killerbees19
+* Repositories: [github.com/froonix](https://github.com/froonix?q=&type=source)
+* Gists: [gist.github.com/killerbees19](https://gist.github.com/killerbees19)
