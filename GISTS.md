@@ -22,6 +22,7 @@
 * [Supermicro Fan Control](https://gist.github.com/dacc4598da932ac7b16a62b1e08dbf93)
 * [Thunderbird 68 folder pane icons for Thunderbird 78](https://gist.github.com/200326b3228bfdc45e2830df9557d624)
 * [USBcopy Alternative](https://gist.github.com/d179f693d16d7992f1238c97501464c0)
+* [ffmpeg lossless cut](https://gist.github.com/6f24d2cfb1e7b2e159cc662ad20dd7a3)
 * [zfs_health.sh](https://gist.github.com/2c1ed0a92aab8128f2114ebe7a956ae5)
 
 ## Munin
