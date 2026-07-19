@@ -16,6 +16,7 @@
 
 ## Miscellaneous
 * [coreboot @ Lenovo ThinkPad T440p](https://gist.github.com/bad66440f6fed917f2440536080b4737)
+* [coreboot @ Lenovo ThinkPad X230](https://gist.github.com/9594634f39ec8e8cbf96a520d9749661)
 * [HIBP Passwords Importer](https://gist.github.com/205655d572261aca6e25b18433c6b38c)
 * [libvirt: USB-Geräte](https://gist.github.com/2bd81a491744fd7fa3e4825f7b86670b)
 * [Mastodon @ Debian](https://gist.github.com/9b0fb9358b1570d7ef17684aa7754259)
